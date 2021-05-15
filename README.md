@@ -6,4 +6,6 @@ And also shows us the time it Took.
 
 This is a Single Process Test.
 
+The more powerfull you cpu is the more fast the task completes.
+
 Thank u
