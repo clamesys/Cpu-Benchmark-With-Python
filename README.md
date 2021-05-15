@@ -6,4 +6,4 @@ And also shows us the time it Took.
 
 This is a Single Process Test.
 
-Thnak u
+Thank u
