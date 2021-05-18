@@ -8,6 +8,6 @@ This is a Single Process Test.
 
 The more powerfull you cpu is the more fast the task completes.
 
-nstall the requirements.txt `using pip install -r requirements.txt`
+Install the requirements.txt `using pip install -r requirements.txt`
 
-Thank u
+Thank u :)
